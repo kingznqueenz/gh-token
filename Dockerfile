@@ -7,7 +7,7 @@
 ######################
 # Pull in base image #
 ######################
-FROM ubuntu:20.04 as final
+FROM ubuntu:22.04 as final
 
 ###########################
 # Get the build arguments #
